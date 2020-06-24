@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 variable "instance_type" {
-  description = "あアｱ１1ａa中表鷗㊞屢울가繁體áé丵-g11n-AWS123"
+  description = "あアｱ１1ａa中表鷗㊞屢울가繁體áé丵-g11n-AWS12356"
   default     = "t2.micro"
 }
 
